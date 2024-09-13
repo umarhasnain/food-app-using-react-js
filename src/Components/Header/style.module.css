@@ -1,0 +1,27 @@
+.mainDiv{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 50px;
+
+}
+
+.listDiv ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+
+    gap: 30px;
+    list-style-type: none;
+}
+
+.imgDiv img {
+height: 50px;
+}
+
+.btn {
+    display: flex;
+    gap: 10px;
+}

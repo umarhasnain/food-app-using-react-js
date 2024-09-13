@@ -1,0 +1,23 @@
+.footer-wrapper{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 50px 20px;
+    background-color: black;
+    color: white;
+    height: 500px;
+}
+
+.footer-list ul li {
+    list-style-type: none;
+    padding: 7px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: whitesmoke;
+    
+}
+
+.footer-list-heading{
+    font-weight: bold;
+    color: white;
+}

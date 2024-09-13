@@ -1,0 +1,27 @@
+.newslater-wrapper{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 50px 0px;
+    background-color: antiquewhite;
+    height: 300px;
+}
+.input-wrapper {
+    display: flex;
+    align-items: center;
+}
+.input-wrapper input{
+    height: 50px;
+    width: 400px;
+    border-radius: 30px;
+    outline: none;
+    border: none;
+    background-color: whitesmoke;
+    padding: 5px;
+    padding-left: 20px;
+
+}
+
+.input-wrapper Button {
+    margin-left: -100px;
+}

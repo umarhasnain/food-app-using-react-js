@@ -1,0 +1,48 @@
+.herosecion-wrapper{
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    margin: 100px 200px;
+
+}
+
+.image-wrapper{
+    padding: 30px;
+    background-color: antiquewhite;
+    border-radius: 20px 70px;
+}
+
+.herosection-text{
+    padding: 40px;
+    font-size: 20px;
+}
+
+.herosection-heading{
+font-size: 50px;
+}
+
+.input-wrapper {
+    display: flex;
+    align-items: center;
+}
+.input-wrapper input{
+    height: 50px;
+    width: 400px;
+    border-radius: 30px;
+    outline: none;
+    border: none;
+    background-color: whitesmoke;
+    padding: 5px;
+    padding-left: 20px;
+
+}
+
+.input-wrapper Button {
+    margin-left: -100px;
+}
+
+.icon-wrapper{
+    display: flex;
+    gap: 20px;
+}
+

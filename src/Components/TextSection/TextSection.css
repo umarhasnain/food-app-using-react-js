@@ -1,0 +1,21 @@
+.centerText-wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.centerText-wrapper h1 {
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 500px;
+    text-align: center;
+}
+
+.centerText-wrapper p {
+    font-size: 17px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+    
+
+}
