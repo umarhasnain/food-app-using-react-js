@@ -2,6 +2,7 @@
     display: flex;
     justify-content: space-evenly;
     align-items: center;
+    flex-wrap: wrap;
     margin: 50px 0px;
     background-color: antiquewhite;
     height: 300px;
@@ -9,10 +10,11 @@
 .input-wrapper {
     display: flex;
     align-items: center;
+    flex-wrap: wrap;
 }
 .input-wrapper input{
     height: 50px;
-    width: 400px;
+    max-width: 300px;
     border-radius: 30px;
     outline: none;
     border: none;

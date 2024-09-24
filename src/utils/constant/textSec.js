@@ -29,7 +29,7 @@ const testonomial = {
   tittle: "Our Clients Feedback",
   discription:
     "The food at your doorstep. Why starve when you have us. You hunger partner. Straight out of the oven to your doorstep.",
-  image: "public/assets/imgs/testo.svg",
+  image: "/assets/imgs/testo.svg",
   dec: '"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eveniet, velitsint. Voluptas quas distinctio non quos iusto ipsam quibusdam soluta."',
   userName: "Mitchell Marsh",
   heading: "CEO, Baxon Agency",

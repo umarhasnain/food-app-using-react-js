@@ -1,5 +1,6 @@
 const allImages = {
-    boyImage:"public/assets/imgs/boyImg.svg",
+    boyImage:"/assets/imgs/boyImg.svg",
 }
 
 export default allImages
+// import "../../assets/"

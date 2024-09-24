@@ -2,23 +2,27 @@
     display: flex;
     justify-content: center;
     /* align-items: center; */
-    margin: 100px 200px;
-
+    margin: 80px 10px;
+    flex-wrap: wrap;
 }
 
-.image-wrapper{
+.image-wrapper img{
     padding: 30px;
     background-color: antiquewhite;
     border-radius: 20px 70px;
+    display: flex;
+    max-width: 400px;
+    flex-wrap: wrap;
 }
 
 .herosection-text{
     padding: 40px;
     font-size: 20px;
+    max-width: 600px;
 }
 
 .herosection-heading{
-font-size: 50px;
+font-size: 30px;
 }
 
 .input-wrapper {
@@ -27,7 +31,7 @@ font-size: 50px;
 }
 .input-wrapper input{
     height: 50px;
-    width: 400px;
+    width: 300px;
     border-radius: 30px;
     outline: none;
     border: none;
